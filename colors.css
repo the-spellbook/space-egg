@@ -1,0 +1,43 @@
+aside {
+    width: 30%;
+    float: left;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+p {
+    font-size: small;
+    color:rgb(255, 245, 212);
+}
+a:link {
+    font-size: small;
+    color: rgb(255, 245, 212);
+    text-decoration: none;
+}
+a:visited {
+    font-size: small;
+    color: rgb(255, 245, 212);
+    text-decoration: none;
+}
+a:hover {
+    font-size: small;
+    color: rgb(255, 245, 212);
+    font-style: italic;
+    text-decoration: none;
+}
+a:active {
+    font-size: small;
+    color: rgb(255, 245, 212);
+    font-weight: 900;
+    text-decoration: none;
+}
+.content {
+    width: 40%;
+    float: left;
+}
+.text {
+    color:rgb(255, 245, 212);
+    font-family:'Courier New', Courier, monospace;
+}
+/*.body {*/
+/*    background-color:rgb(10, 10, 41);*/
+/*}*/
